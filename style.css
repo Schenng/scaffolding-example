@@ -1,0 +1,108 @@
+
+#override h1 {
+  font-size: 40px;
+}
+
+#override h2 {
+  font-size: 35px;
+}
+
+#override h3 {
+  font-size: 30px;
+}
+
+#override h4 {
+  font-size: 25px;
+}
+
+#override h5 {
+  font-size: 20px;
+}
+
+@media (min-width: 576px) { 
+  #override h1 {
+    font-size: 50px;
+  }
+
+  #override h2 {
+    font-size: 45px;
+  }
+
+  #override h3 {
+    font-size: 40px;
+  }
+
+  #override h4 {
+    font-size: 35px;
+  }
+
+  #override h5 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 768px) { 
+  #override h1 {
+    font-size: 65px;
+  }
+
+  #override h2 {
+    font-size: 60px;
+  }
+
+  #override h3 {
+    font-size: 55px;
+  }
+
+  #override h4 {
+    font-size: 50px;
+  }
+
+  #override h5 {
+    font-size: 45px;
+  }
+}
+
+@media (min-width: 992px) { 
+  #override h1 {
+    font-size: 80px;
+  }
+
+  #override h2 {
+    font-size: 75px;
+  }
+
+  #override h3 {
+    font-size: 70px;
+  }
+
+  #override h4 {
+    font-size: 65px;
+  }
+
+  #override h5 {
+    font-size: 60px;
+  }
+}
+
+@media (min-width: 1200px) { 
+  #override h1 {
+    font-size: 100px;
+  }
+
+  #override h2 {
+    font-size: 80px;
+  }
+
+  #override h3 {
+    font-size: 70px;
+  }
+
+  #override h4 {
+    font-size: 60px;
+  }
+
+  #override h5 {
+    font-size: 50px;
+  }
+}
